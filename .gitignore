@@ -1,0 +1,11 @@
+# Python project ignores
+
+__pycache__/
+*.pyc
+.env
+venv/
+models/
+*.h5
+.DS_Store
+.vscode/
+.idea/
